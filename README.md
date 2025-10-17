@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismansahni" alt="bismansahni" /></a> </p>
 
-- 🔭 I’m currently working on **On-Device AI projects**
+- 🔭 I’m currently working on **On-Device AI**
 
 - 🌱 I’m currently learning **Kubernetes**
 
