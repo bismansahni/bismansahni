@@ -1,1 +1,1 @@
-<h1 align="center">Hi, welcome to my portfolio! </h1>
+<h2 align="center"> Welcome to my portfolio! </h2>
